@@ -1,9 +1,13 @@
-# Hi there, I'm Khush Patel 👋
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Khush%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Animated header" />
-</p>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khush%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20Student%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn)](https://github.com/KHUSHPATEL143)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences+%F0%9F%9A%80;MERN+Stack+Developer+in+the+Making;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+to+Collaborations+%F0%9F%A4%9D)](https://github.com/KHUSHPATEL143)
+
+</div>
+
+---
 ### 🎓 Computer Engineering Student @ Coding Gita
 ### 🚀 Full-Stack Developer & Agency Founder
 
@@ -13,31 +17,9 @@ I am a passionate developer focused on building scalable digital solutions and g
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=560&lines=Building+scalable+digital+solutions;Creating+gamified+productivity+tools;Bridging+design+and+functionality" alt="Typing animation" />
 </p>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend & Backend (MERN)**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Backend & Database**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Programming Languages**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Other Tools**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
+
 
 ### 🏗️ Current Projects
 
@@ -51,9 +33,9 @@ I am a passionate developer focused on building scalable digital solutions and g
 * **Scalable Architecture** - Building web systems that grow with the user.
 * **Productivity Design** - Exploring how gamification can beat procrastination.
 
----
 
-### 🔗 Links
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://khushpatel.online" target="_blank" rel="noreferrer">
@@ -79,17 +61,62 @@ I am a passionate developer focused on building scalable digital solutions and g
   </a>
 </p>
 
+---
 
+## 🛠️ Tech Stack
 
-* 📍 Based in **Gujarat, India**
-* 💬 Ask me about **MERN Stack, Web Design, or C++ debugging**
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,js,python&theme=dark)](https://github.com/KHUSHPATEL143)
+
+**Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark)](https://github.com/KHUSHPATEL143)
+
+**Backend**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://github.com/KHUSHPATEL143)
+
+**Database & Cloud**
+
+[![Skills](https://skillicons.dev/icons?i=mongodb,supabase,firebase&theme=dark)](https://github.com/KHUSHPATEL143)
+
+**Tools**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,postman,figma&theme=dark)](https://github.com/KHUSHPATEL143)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KHUSHPATEL143&show_icons=true&theme=radical" alt="Khush's GitHub Stats" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
+<div align="center">
+
+![Khush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHUSHPATEL143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9)
+<!-- 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHUSHPATEL143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9) -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KHUSHPATEL143&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6e00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=c9d1d9)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KHUSHPATEL143&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=302b63&point=00f5ff)](https://github.com/KHUSHPATEL143)
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+![Snake animation](https://raw.githubusercontent.com/KHUSHPATEL143/KHUSHPATEL143/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)](https://github.com/KHUSHPATEL143)
+
+**⭐ If you found something useful, consider starring the repo! It keeps me going 🚀**
+
+</div>
